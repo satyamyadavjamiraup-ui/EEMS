@@ -492,15 +492,11 @@ This project is licensed under the MIT License.
 
 # Connect with Me
 
-**Nitesh Vishwakarma**
+**Satyam Yadav**
 
 GitHub
 
-https://github.com/NiteshVishwakarma219
-
-LinkedIn
-
-https://linkedin.com/in/nitesh1vishwakarma
+[https://github.com/NiteshVishwakarma219](https://github.com/satyamyadavjamiraup-u)
 
 ---
 
@@ -508,7 +504,7 @@ https://linkedin.com/in/nitesh1vishwakarma
 
 ### ⭐ If you found this project useful, please consider giving it a Star.
 
-Made with ❤️ by Nitesh Vishwakarma
+Made with ❤️ by Satyam Yadav
 
 </div>
 
